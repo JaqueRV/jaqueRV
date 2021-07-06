@@ -6,8 +6,8 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
+  <img align="center" alt="Js-image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="winx-bloom" src="https://media.tenor.com/images/7c62489065a4e21a6bfb25d4a11e3076/tenor.gif">
 </div>
   
   ##
